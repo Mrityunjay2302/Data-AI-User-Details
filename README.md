@@ -29,6 +29,19 @@ App functions:
    ## API endpoint
    https://datapeace-storage.s3-us-west-2.amazonaws.com/dummy_data/users.json
   
+  The user model has following fields:</br>
+  User -</br>
+  id -</br>
+  first_name -</br>
+  last_name -</br>
+  age -</br>
+  email -</br>
+  web -</br>
+  company_name -</br>
+  city -</br>
+  state -</br>
+  zip;
+  
   ## Instructions
   Use react for this assignment.</br>
  1: IMPORTANT: Pagination, search and sorting should be implemented manually in the frontend only. DO NOT use 3rd party library or inbuilt feature for these.</br>
