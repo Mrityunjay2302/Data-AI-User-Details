@@ -1,6 +1,13 @@
 # React Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this assignment, you have to create a react application which provides following functionalities:
+
+<ul>list users in a table
+search for a user
+sort columns of table
+pagination of users list
+detail page for each user on a separate route
+Attention to detail and meeting all requirements is important in the project. Completing it in less time will not give you any preference.</ul>
 
 ## Available Scripts
 
