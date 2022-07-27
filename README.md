@@ -25,6 +25,9 @@ App functions:
 6: Routing: Table and Detail pages should be on their respective routes:</br>
    &nbsp; i: Route for Table page should be /users</br>
    &nbsp; ii: Route for Detail page should /users/<id> (e.g: /users/2, if id of user is 2)
+   
+   ## API endpoint
+   https://datapeace-storage.s3-us-west-2.amazonaws.com/dummy_data/users.json
   
   ## Instructions
   Use react for this assignment.</br>
@@ -42,9 +45,6 @@ App functions:
 &nbsp; v: When done, Test if all task requirements are met and instructions followed</br>
 &nbsp; vi: Push code to github</br>
 &nbsp; vii: Deploy and host the app 
-
-## API endpoint
-https://datapeace-storage.s3-us-west-2.amazonaws.com/dummy_data/users.json
 
 ### `npm start`
 
