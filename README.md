@@ -2,7 +2,7 @@
 
 In this assignment, you have to create a react application which provides following functionalities:
 
-<ul>list users in a table
+<ul>list users in a table \n
 search for a user
 sort columns of table
 pagination of users list
